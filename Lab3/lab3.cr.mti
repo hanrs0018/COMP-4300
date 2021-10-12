@@ -1,0 +1,23 @@
+//ausamba.auburn.edu/homes/downloads/bva.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none //ausamba.auburn.edu/homes/downloads/bva.vhd
+Model Technology ModelSim SE-64 vcom 10.3c Compiler 2014.07 Jul 19 2014
+-- Loading package STANDARD
+-- Compiling package bv_arithmetic
+
+} {} {}} //ausamba.auburn.edu/homes/downloads/dlx-types.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none //ausamba.auburn.edu/homes/downloads/dlx-types.vhd
+Model Technology ModelSim SE-64 vcom 10.3c Compiler 2014.07 Jul 19 2014
+-- Loading package STANDARD
+-- Compiling package dlx_types
+
+} {} {}} {H:/comp architecture/dlx_register.vhd} {0 {vcom -work work -2002 -explicit -vopt -stats=none {H:/comp architecture/dlx_register.vhd}
+Model Technology ModelSim SE-64 vcom 10.3c Compiler 2014.07 Jul 19 2014
+-- Loading package STANDARD
+** Error: H:/comp architecture/dlx_register.vhd(2): (vcom-1491) Empty source files.
+
+
+} {4.0 5.0} {}} //ausamba.auburn.edu/homes/downloads/bva-b.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none //ausamba.auburn.edu/homes/downloads/bva-b.vhd
+Model Technology ModelSim SE-64 vcom 10.3c Compiler 2014.07 Jul 19 2014
+-- Loading package STANDARD
+-- Compiling package body bv_arithmetic
+-- Loading package bv_arithmetic
+
+} {} {}}
