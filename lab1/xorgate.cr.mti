@@ -1,0 +1,7 @@
+{H:/comp architecture/xorgate.vhd} {1 {vcom -work work -2002 -explicit -vopt -stats=none {H:/comp architecture/xorgate.vhd}
+Model Technology ModelSim SE-64 vcom 10.3c Compiler 2014.07 Jul 19 2014
+-- Loading package STANDARD
+-- Compiling entity xorgate
+-- Compiling architecture behaviour1 of xorgate
+
+} {} {}}
